@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Adrián%20Ubeda%20Touati&fontSize=72&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Welcome%2C%20nice%20to%20meet%20you!&fontSize=62&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ I enjoy building systems that are **useful, reliable, and measurable** — from 
 
 ## 🔥 Featured Projects (also on LinkedIn)
 
-### 🇫🇷 Lecture labiale avec intelligence artificielle 🧠 | 🇪🇸 Lectura de labios con inteligencia artificial 🧠
+### 🇫🇷 Lecture labiale avec intelligence artificielle 🧠 | 🇪🇸 Lectura de labios con inteligencia artificielle 🧠
 **Sep 2024 → Dec 2024** · Associated with **Université Paris 8**  
 Repo: https://github.com/AdrianUbedaTouati/Red_habla_M1  
 - Visual speech recognition (**lip reading without audio**)  
@@ -123,8 +123,7 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 ---
 
 ## 📊 GitHub Snapshot
-
-![Metrics](https://raw.githubusercontent.com/AdrianUbedaTouati/AdrianUbedaTouati/main/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 ---
 
@@ -135,5 +134,3 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" width="100%"/>
 </div>
-
-
