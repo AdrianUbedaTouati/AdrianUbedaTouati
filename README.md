@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=980&lines=AI+%26+Software+Engineer+%28early-career%29;LLM+Agents+%7C+Chatbots+%7C+Automation+%7C+RAG;Learning+fast%2C+shipping+useful+things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=980&lines=AI+%26+Software+Engineer+%28early-career%29;LLM+Agents+%7C+Chatbots+%7C+Automation+%7C+RAG;Curious%2C+always+learning+and+improving" />
 </div>
 
 <p align="center">
@@ -26,10 +26,11 @@
 
 ## 👋 About me
 
-I’m an **early-career AI & software engineer** currently focused on building **chatbots with LLM agents** and connecting them to real tools (APIs, databases, automations).  
-I like shipping practical projects, learning fast, and improving systems step by step.
+I’m an **early-career AI & software engineer** focused on building **chatbots with LLM agents** and connecting them to real tools (APIs, databases, automations).  
+I enjoy learning from feedback and improving systems step by step.
 
 - 🧪 **Innovation Team @ One Million Bot**
+- 🧰 Previous experience in **Automation / RPA** at **Redarquia Digital**
 - 🎓 **M.Sc. AI Engineering (Université Paris 8)** — M2 in progress
 - 🗣️ Spanish (native) · French (native) · English (B1)
 
@@ -40,7 +41,25 @@ I like shipping practical projects, learning fast, and improving systems step by
 - 🤖 **LLM Agents & Chatbots** (tool use, multi-step workflows, reliability)
 - 🔎 **RAG & Knowledge** (documents → retrieval → grounded answers)
 - 🔌 **Integrations** (APIs, webhooks, databases, internal tools)
-- 🧪 **Evaluation & Iteration** (prompting, testing, monitoring, improvements)
+- 🧪 **Evaluation & Iteration** (testing, monitoring, improvements)
+
+---
+
+## 💼 Experience (brief)
+
+### AI Developer — Innovation Team  
+**One Million Bot** · *Present*  
+- Building **chatbots with LLM agents** and integrating them with tools and data  
+- Prototyping quickly and iterating toward stable, production-friendly solutions  
+- **Latest:** built an evaluation system for the Spanish AI **ALIA** using **LLM-as-a-judge** (automatic scoring + analysis)
+
+### AI / RPA Developer — Custom Solutions  
+**Redarquia Digital** · Apr 2024 → Nov 2024  
+- OCR + AI invoice analysis (customized per client)  
+- Automation of conditional workflows (**RPA**)  
+- Modular database design for reconfigurable automation  
+- Power BI reporting and data analysis  
+- AI + IoT processing for a smart irrigation system  
 
 ---
 
@@ -49,28 +68,28 @@ I like shipping practical projects, learning fast, and improving systems step by
 ### 🇫🇷 Lecture labiale avec intelligence artificielle 🧠 | 🇪🇸 Lectura de labios con inteligencia artificial 🧠
 **Sep 2024 → Dec 2024** · Associated with **Université Paris 8**  
 Repo: https://github.com/AdrianUbedaTouati/Red_habla_M1  
-- Visual speech recognition (**lip reading without audio**)
-- End-to-end project structure: experiments + code organization
+- Visual speech recognition (**lip reading without audio**)  
+- End-to-end project structure: experiments + code organization  
 
 ---
 
 ### 🇫🇷 Navigation et vision artificielle avec ROS 🤖 | 🇪🇸 Navegación y visión artificial con ROS 🤖
 **Nov 2023 → Dec 2023** · Associated with **University of Alicante (UA)**  
 Repo: https://github.com/AdrianUbedaTouati/Vision_Turtelbot3_GMaping  
-- Robotics experiments combining **ROS navigation + computer vision**
-- Practical mapping / perception workflow exploration
+- Robotics experiments combining **ROS navigation + computer vision**  
+- Practical mapping / perception workflow exploration  
 
 ---
 
 ### 🩻 Chest X-Ray Pneumonia Classification (CNN experiments)
 Repo: https://github.com/AdrianUbedaTouati/M1_IA_XRAY  
-- CNN comparisons with structured evaluation and reporting
+- CNN comparisons with structured evaluation and reporting  
 
 ---
 
 ### 🌱 GreenTwin / Smart Plant System (monitoring + ML prototype)
 Repo: https://github.com/AdrianUbedaTouati/IAPlantas  
-- ML prototype + simple monitoring/control interface
+- ML prototype + simple monitoring/control interface  
 
 > More projects (LinkedIn): https://www.linkedin.com/in/adrianubedatouati/details/projects/
 
@@ -85,35 +104,18 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Agents-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APIs%20%26%20Integrations-111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20%2F%20RPA-111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111" />
 </p>
-
----
-
-## 💼 Experience (brief)
-
-### AI Developer — Innovation Team  
-**One Million Bot** · *Present*  
-- Building **chatbots with LLM agents** and integrating them with tools and data  
-- Prototyping ideas quickly and iterating toward stable, production-friendly solutions
-
-### AI / RPA Developer — Custom Solutions  
-**Redarquia Digital** · Apr 2024 → Nov 2024  
-- OCR + AI invoice analysis (customized per client)  
-- Automation of conditional workflows (RPA)  
-- Modular database design for reconfigurable automation  
-- Power BI reporting and data analysis  
-- AI + IoT processing for a smart irrigation system  
 
 ---
 
@@ -124,19 +126,8 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 
 ---
 
-## 🌍 Languages
-- 🇪🇸 Spanish — Native  
-- 🇫🇷 French — Native  
-- 🇬🇧 English — B1  
-
----
-
-## 📈 GitHub Stats (fixed)
-
-> If these images ever fail, it’s usually temporary rate-limiting. Refresh after a bit.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianUbedaTouati&show_icons=true&hide_border=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianUbedaTouati&layout=compact&hide_border=true&theme=transparent)
+## 📊 GitHub Snapshot
+![Metrics](./github-metrics.svg)
 
 ---
 
@@ -147,3 +138,4 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" width="100%"/>
 </div>
+
