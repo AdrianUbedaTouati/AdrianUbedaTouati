@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=980&lines=AI+%26+Software+Engineer+%28early-career%29;LLM+Agents+%7C+Chatbots+%7C+Automation+%7C+RAG;Curious%2C+always+learning+and+improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+LLM+Agents+%7C+Chatbots+%7C+RAG;Automation+%26+Data+Integration+%7C+Snowflake+%7C+APIs;Curious%2C+always+learning+and+improving" />
 </div>
 
 <p align="center">
@@ -26,40 +26,40 @@
 
 ## 👋 About me
 
-I’m an **early-career AI & software engineer** focused on building **chatbots with LLM agents** and connecting them to real tools (APIs, databases, automations).  
-I enjoy learning from feedback and improving systems step by step.
+I’m an **AI Engineer** working on **LLM-agent chatbots**, **RAG**, and **tool integrations** (APIs, databases, internal services).  
+I enjoy building systems that are **useful, reliable, and measurable** — from prototype to production.
 
 - 🧪 **Innovation Team @ One Million Bot**
-- 🧰 Previous experience in **Automation / RPA** at **Redarquia Digital**
-- 🎓 **M.Sc. AI Engineering (Université Paris 8)** — M2 in progress
+- ⚙️ Background in **Automation / RPA** (Redarquia Digital)
+- 🎓 **M.Sc. AI Engineering (Université Paris 8)** — M2 in progress  
 - 🗣️ Spanish (native) · French (native) · English (B1)
 
 ---
 
-## 🎯 What I’m focusing on right now
+## 🎯 Current focus
 
-- 🤖 **LLM Agents & Chatbots** (tool use, multi-step workflows, reliability)
-- 🔎 **RAG & Knowledge** (documents → retrieval → grounded answers)
-- 🔌 **Integrations** (APIs, webhooks, databases, internal tools)
-- 🧪 **Evaluation & Iteration** (testing, monitoring, improvements)
+- 🤖 **LLM Agents & Chatbots**: tool use, multi-step workflows, reliability
+- 🔎 **RAG**: retrieval strategies, grounding, evaluation
+- 🔌 **Integrations**: APIs, webhooks, databases (incl. Snowflake)
+- 🧪 **Evaluation**: test sets, automated scoring, analysis & iteration
 
 ---
 
-## 💼 Experience (brief)
+## 💼 Experience (highlights)
 
 ### AI Developer — Innovation Team  
 **One Million Bot** · *Present*  
-- Building **chatbots with LLM agents** and integrating them with tools and data  
-- Prototyping quickly and iterating toward stable, production-friendly solutions  
+- Building **agentic chatbots** and connecting them to tools and data sources  
+- Designing evaluation loops to improve quality and stability  
 - **Latest:** built an evaluation system for the Spanish AI **ALIA** using **LLM-as-a-judge** (automatic scoring + analysis)
 
 ### AI / RPA Developer — Custom Solutions  
 **Redarquia Digital** · Apr 2024 → Nov 2024  
-- OCR + AI invoice analysis (customized per client)  
-- Automation of conditional workflows (**RPA**)  
-- Modular database design for reconfigurable automation  
-- Power BI reporting and data analysis  
-- AI + IoT processing for a smart irrigation system  
+- Built invoice analysis tools using **OCR + AI** (customized per client)  
+- Developed **automation / RPA** workflows with complex conditional logic  
+- Designed modular DB structures to reconfigure automation processes  
+- Built **Power BI** reports for detailed sales analysis  
+- Created AI models combining **IoT sensors + data processing** for smart irrigation  
 
 ---
 
@@ -95,19 +95,15 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 
 ---
 
-## 🧰 Tech I use / work with
+## 🧰 Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-2F74C0?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/APIs%20%26%20Integrations-111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLM%20Agents-111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs%20%26%20Integrations-111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20%2F%20RPA-111?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -127,7 +123,8 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 ---
 
 ## 📊 GitHub Snapshot
-![Metrics](./github-metrics.svg)
+
+![Metrics](https://raw.githubusercontent.com/AdrianUbedaTouati/AdrianUbedaTouati/main/github-metrics.svg)
 
 ---
 
@@ -138,4 +135,5 @@ Repo: https://github.com/AdrianUbedaTouati/IAPlantas
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" width="100%"/>
 </div>
+
 
